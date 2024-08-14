@@ -1,0 +1,36 @@
+# .NET
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.db
+*.sqlite
+
+# ASP.NET
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+*.user
+*.suo
+*.userosscache
+*.suo
+*.swp
+
+# Node modules (if you use Node.js for anything)
+node_modules/
+
+# Logs
+*.log
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Miscellaneous
+*.DS_Store
+*.idea/
+*.vs/
+*.vscode/
